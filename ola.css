@@ -1,0 +1,101 @@
+body{
+    background:#ccc;
+    font-family:Arial, Helvetica, sans-serif;  
+    text-align: center;
+}
+
+.eai h1{
+    background-color:rgb(238, 182, 109);
+    margin: 2rem;
+    color:rgb(0, 0, 0);
+}
+
+.eai p{
+    text-align:justify;
+    font-size: 1rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(170, 5, 5);
+    margin:2rem;
+}
+
+.sgnd h1{
+    background:rgb(238, 182, 109);
+    text-align: justify;
+    border-bottom-style:solid;
+    border-color:red;
+    margin: 2rem;
+}
+
+.sgnd p{
+    text-align:justify;
+    font-size:1rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(170, 5, 5);
+    margin:2rem;
+}
+
+.tcr h1{
+    background:rgb(238, 182, 109);
+    text-align: justify;
+    border-bottom-style:solid;
+    border-color:red;
+    margin: 2rem;
+}
+
+.tcr p{
+    text-align:justify;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:2rem;
+    font-size: 1.6rem;
+}
+
+.tcr a:link{
+    color:blue;
+    text-decoration:none;
+}
+
+.tcr a:hover{
+    background:rgb(238, 182, 109);
+    text-decoration:underline;
+    font-size: 150%;
+}
+
+.tcr a:visited{
+    text-decoration:none;
+    color: purple;
+}
+
+.tcr h2{
+    text-align: justify;
+    margin: 2rem;
+    font-size: 1.4rem;
+    color:rgb(170, 5, 5);
+}
+
+.qrt p{
+    text-align:justify;
+    margin: 2rem;
+    font-size: 1rem;
+}
+
+.qrt ul{
+    text-align:justify;
+    margin: 2rem;
+    font-size: 1rem;
+}
+
+.qrt a:hover{
+    background:rgb(238, 182, 109);
+    text-decoration:underline;
+    font-size: 150%;
+}
+
+.qrt a:link{
+    color:blue;
+    text-decoration:none;
+}
+
+.qrt a:visited{
+    text-decoration:none;
+    color: purple;
+}
